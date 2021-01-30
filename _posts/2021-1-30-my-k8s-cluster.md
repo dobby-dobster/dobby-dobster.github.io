@@ -4,7 +4,7 @@ layout: post
 title: My Kubernetes Cluster
 ---
 
-I've decided to setup a K8s cluster using Digital Ocean ("DO"). DO offer a managed service which provides a full Kubernetes offering without the need to build and maintain a cluster from scratch.
+I've setup a K8s cluster using Digital Ocean ("DO"). DO offer a managed service which provides a full Kubernetes offering without the need to build and maintain a cluster from scratch.
 
 It means I can easily destroy and re-create and have a new cluster up and running in minutes.
 
